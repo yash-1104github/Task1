@@ -1,0 +1,212 @@
+[
+    {
+        "property_id": "12345",
+        "owner_name": "John Doe",
+        "address": {
+            "street": "123 Maple Street",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zipcode": "90001"
+        },
+        "area_sq_ft": 2000,
+        "price": 500000,
+        "listing_type": "Sale",
+        "image_url": "https://tse3.mm.bing.net/th?id=OIP.yJdaYn1RB9IDYbAwoc8VrwHaE8&w=316&h=316&c=7"
+    },
+    {
+        "property_id": "67890",
+        "owner_name": "Jane Smith",
+        "address": {
+            "street": "456 Oak Avenue",
+            "city": "San Francisco",
+            "state": "CA",
+            "zipcode": "94102"
+        },
+        "area_sq_ft": 1500,
+        "price": 750000,
+        "listing_type": "Sale",
+        "image_url": "https://tse3.mm.bing.net/th?id=OIP.axFCktBFZPTyxYXIZSu14AHaE6&w=314&h=314&c=7"
+    },
+    {
+        "property_id": "23456",
+        "owner_name": "Alice Johnson",
+        "address": {
+            "street": "789 Pine Road",
+            "city": "Sacramento",
+            "state": "CA",
+            "zipcode": "94203"
+        },
+        "area_sq_ft": 1800,
+        "price": 620000,
+        "listing_type": "Sale",
+        "image_url": "https://tse3.mm.bing.net/th?id=OIP.debwMlosei9474X3aOIirQHaFj&w=355&h=355&c=7"
+    },
+    {
+        "property_id": "34567",
+        "owner_name": "Bob Williams",
+        "address": {
+            "street": "321 Elm Street",
+            "city": "San Diego",
+            "state": "CA",
+            "zipcode": "92101"
+        },
+        "area_sq_ft": 2200,
+        "price": 800000,
+        "listing_type": "Sale",
+        "image_url": "https://tse4.mm.bing.net/th?id=OIP.WA_Ya9db5kjbj8d9Y_OzUQHaE_&w=319&h=319&c=7"
+    },
+    {
+        "property_id": "45678",
+        "owner_name": "Carol Davis",
+        "address": {
+            "street": "654 Birch Lane",
+            "city": "Los Angeles",
+            "state": "CA",
+            "zipcode": "90002"
+        },
+        "area_sq_ft": 1700,
+        "price": 450000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1481018085669-2bc6e4f00eed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "56789",
+        "owner_name": "Daniel Martinez",
+        "address": {
+            "street": "987 Cedar Drive",
+            "city": "Fresno",
+            "state": "CA",
+            "zipcode": "93711"
+        },
+        "area_sq_ft": 2500,
+        "price": 690000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1504615755583-2916b52192a3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "67891",
+        "owner_name": "Emma Brown",
+        "address": {
+            "street": "159 Willow Way",
+            "city": "Long Beach",
+            "state": "CA",
+            "zipcode": "90802"
+        },
+        "area_sq_ft": 2100,
+        "price": 540000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1481018085669-2bc6e4f00eed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "78912",
+        "owner_name": "George Wilson",
+        "address": {
+            "street": "753 Redwood Road",
+            "city": "Bakersfield",
+            "state": "CA",
+            "zipcode": "93301"
+        },
+        "area_sq_ft": 3000,
+        "price": 850000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1504615755583-2916b52192a3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "89023",
+        "owner_name": "Hannah Thomas",
+        "address": {
+            "street": "951 Spruce Avenue",
+            "city": "Oakland",
+            "state": "CA",
+            "zipcode": "94601"
+        },
+        "area_sq_ft": 1600,
+        "price": 470000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1523688471150-efdd09f0f312?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "90134",
+        "owner_name": "Isaac Lewis",
+        "address": {
+            "street": "369 Poplar Street",
+            "city": "Santa Ana",
+            "state": "CA",
+            "zipcode": "92701"
+        },
+        "area_sq_ft": 1850,
+        "price": 520000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1523688471150-efdd09f0f312?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "01245",
+        "owner_name": "Jack Lee",
+        "address": {
+            "street": "147 Magnolia Lane",
+            "city": "Irvine",
+            "state": "CA",
+            "zipcode": "92602"
+        },
+        "area_sq_ft": 2600,
+        "price": 780000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1562182384-08115de5ee97?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "34512",
+        "owner_name": "Kelly Green",
+        "address": {
+            "street": "852 Pinecone Road",
+            "city": "Anaheim",
+            "state": "CA",
+            "zipcode": "92801"
+        },
+        "area_sq_ft": 2200,
+        "price": 670000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "67823",
+        "owner_name": "Liam Scott",
+        "address": {
+            "street": "963 Ashwood Court",
+            "city": "Fremont",
+            "state": "CA",
+            "zipcode": "94536"
+        },
+        "area_sq_ft": 2800,
+        "price": 910000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "89045",
+        "owner_name": "Mia White",
+        "address": {
+            "street": "741 Cypress Way",
+            "city": "Glendale",
+            "state": "CA",
+            "zipcode": "91201"
+        },
+        "area_sq_ft": 2400,
+        "price": 740000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1562182384-08115de5ee97?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzJ8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    },
+    {
+        "property_id": "23456",
+        "owner_name": "Nathan Harris",
+        "address": {
+            "street": "369 Maple Avenue",
+            "city": "Modesto",
+            "state": "CA",
+            "zipcode": "95350"
+        },
+        "area_sq_ft": 1900,
+        "price": 590000,
+        "listing_type": "Sale",
+        "image_url": "https://images.unsplash.com/photo-1523688471150-efdd09f0f312?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHJhbmRvbSUyMHNlbGxpbmclMjBob3VzZSUyMGltZ3xlbnwwfHwwfHx8MA%3D%3D"
+    }
+]
