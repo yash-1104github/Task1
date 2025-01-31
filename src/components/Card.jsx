@@ -19,7 +19,6 @@ const Card = ({ property }) => {
           <p className="mt-2 text-gray-600">Area: {property.area_sq_ft} sqft</p>
         </div>
       </div>
-
     </>
   )
 }

@@ -6,14 +6,13 @@ import Header from './components/Header'
 const App = () => {
   return (
     <>
-      <div className='flex'>
+      <main className='flex'>
         <Sidebar />
         <div className='w-full flex flex-col'>
           <Header />
           <Dashboard />
         </div>
-      </div>
-
+      </main>
     </>
   )
 }

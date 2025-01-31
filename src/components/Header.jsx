@@ -4,8 +4,7 @@ import { Link } from 'react-router';
 
 const Header = () => {
   return (
-    <div className='w-full  h-15   bg-gray-200'>
-      <div className='flex p-4 justify-between font-semibold'>
+    <div className='w-full  h-15   bg-gray-200 flex p-4 justify-between font-semibold'>
         <div className='flex gap-5'>
           <Link to="/">
             <div className='underline'>
@@ -18,7 +17,6 @@ const Header = () => {
               Explore
             </div>
           </Link>
-
         </div>
 
         <div className='mr-5 flex gap-8'>
@@ -26,7 +24,6 @@ const Header = () => {
           Rowena Ravenclaw
         </div>
       </div>
-    </div>
   )
 }
 

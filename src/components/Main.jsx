@@ -16,40 +16,32 @@ const Main = () => {
 
                 <div className='p-4  ml-4'>
                     <div className='flex  justify-between'>
-                    <p className='ml-3 text-2xl  text-blue-500'>Investement Stats</p>
-                    <img src='dot.svg' className='h-6' />
+                        <p className='ml-3 text-2xl  text-blue-500'>Investement Stats</p>
+                        <img src='dot.svg' className='h-6' />
                     </div>
                     <div className='flex-col bg-gray-100 mt-2 rounded-2xl text-sm p-2 w-[400px] h-[200px]  hover:shadow-xl hover:scale-110 transition-all duration-300'>
                         <div className='flex  h-[125px] justify-between'>
                             <div className='flex-col '>
-
                                 <div className='flex item-center'>
                                     <img src='Group 13.svg' className='' />
                                 </div>
-
                                 <div className='flex item-center'>
                                     <img src='Group 14.svg' className='' />
-
                                 </div>
-
                                 <div className='flex item-center'>
                                     <img src='Group 17.svg' className='' />
                                 </div>
                             </div>
-
                             <div>
                                 <img src='Group 15.png ' className='flex mt-4' />
                             </div>
-
                         </div>
                     </div>
-
                 </div>
             </div>
 
             <div className='flex gap-4'>
                 <div className='mt-4  w-[300px] h-full p-2'>
-
                     <div className='flex  justify-between'>
                         <p className='text-2xl text-blue-500' >NFTs owned</p>
                         <img src='dot.svg' className='h-6' />
@@ -64,8 +56,8 @@ const Main = () => {
                             <img src='Vector 1.png' className='w-[40px] h-[20px]' />
                             <p className='text-sm text-green-400'>+10 %</p>
                         </div>
-
                     </div>
+
                     <div className='flex justify-between mt-2'>
                         <div className='flex flex-col'>
                             <p>Thorian Park</p>
@@ -75,8 +67,8 @@ const Main = () => {
                             <img src='Vector 1.png' className='w-[40px] h-[20px]' />
                             <p className='text-sm text-green-400'>+19 %</p>
                         </div>
-
                     </div>
+
                     <div className='flex justify-between mt-2 '>
                         <div className='flex flex-col'>
                             <p>Linda Mansion</p>
@@ -86,8 +78,8 @@ const Main = () => {
                             <img src='Vector 1.png' className='w-[40px] h-[20px]' />
                             <p className='text-sm text-red-400'>-17 %</p>
                         </div>
-
                     </div>
+
                     <div className='flex justify-between mt-2'>
                         <div className='flex flex-col'>
                             <p>Villa Mary</p>
@@ -97,7 +89,6 @@ const Main = () => {
                             <img src='Vector 1.png' className='w-[40px] h-[20px]' />
                             <p className='text-sm text-green-400'>+22 %</p>
                         </div>
-
                     </div>
                 </div>
 
@@ -113,10 +104,8 @@ const Main = () => {
                         </div>
 
                         <div className='flex-col w-full ml-2'>
-                            <img src='Vector 6.png' className='ml-3 w-[80%] h-[40px]' />
-
+                            <img src='Vector 6.png' className='ml-3 w-[80%] h-[40px]'/>
                             <div className='mt-12 flex w-full  mx-5 text-gray-800'>
-
                                 <p className='mx-6'>Mon</p>
                                 <p className='mx-6'>Tue</p>
                                 <p className='mx-6'>Wes</p>
@@ -125,20 +114,9 @@ const Main = () => {
                                 <p className='mx-6'>Sun</p>
                             </div>
                         </div>
-
                     </div>
-
-
                 </div>
-
             </div>
-
-
-
-
-
-
-
         </div>
     )
 }
