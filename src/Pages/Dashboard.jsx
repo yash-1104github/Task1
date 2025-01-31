@@ -1,6 +1,6 @@
 import React from 'react'
-import Main from './main'
-import Sidemain from './sidemain'
+import Main from './main.jsx'
+import Sidemain from './sidemain.jsx'
 
 const Dashboard = () => {
   return (
